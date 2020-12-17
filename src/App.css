@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+
+.inputField {
+  width: 100px;;
+}
+.button {
+  margin-top: 10px;
+  width: 110px;
+}
+
+.title {
+  font-size: calc(20px + 2vmin);
+  margin-top: -50px;
+}
+
+.songBox {
+  border: 2px solid white;
+  border-radius: 5px;
+  background-color: rgb(20, 63, 77);
+  color: rgb(109, 165, 167);
+}
